@@ -1,1 +1,1 @@
-# todolistApplication
+todo bare minimum
